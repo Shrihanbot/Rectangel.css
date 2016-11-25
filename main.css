@@ -1,7 +1,15 @@
 body {
   font-family: Roboto;
-  text-align: center; }
-
+  text-align: center;
+}
+.rspnsve-20px{
+  margin-left:20px;
+  margin-right: 20px;
+}
+.rspnsve-30px{
+  margin-left: 20px;
+  margin-right: 20px;
+}
 .container-no-border-300px {
   max-width: 300px;
   margin: auto; }
