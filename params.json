@@ -1,0 +1,6 @@
+{
+  "name": "Rectangel.css",
+  "tagline": "",
+  "body": "# Rectangel.css\r\n\r\nRectangel is a CSS library designed with simplicity in mind.\r\nSince many people use CSS libraries with tons and _tons_ of classes in their HTML, this can make it hard to understand, and the user ends up using it improperly. Because of this, Rectangel has very easy to understand classes. Stay tuned for updates!",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
